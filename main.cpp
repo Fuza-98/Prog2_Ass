@@ -54,7 +54,7 @@ class GradeBook: public Student //GradeBook publicly inherits
         }
         void displayInfo(){
             cout<<fixed<<setprecision(2);
-            cout<<"--Student Info--"<<endl;
+            cout<<<<endl"--Student Info--"<<endl;
             cout<<"Student name: "<<getName()<<endl;
             cout<<"Student ID: "<<getID()<<endl;
             cout<<"Quiz Scores: "<<quiz1<<", "<<quiz2<<", "<<quiz3<<endl;;
