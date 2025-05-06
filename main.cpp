@@ -1,6 +1,7 @@
 /******************************************************************************
 
-Welcome to our Programming II Group Assignment source code
+Welcome to our Programming II Group Assignment source code. Comments banyak tak siap
+lg so kalau rajn sesiapa boleh lah add comment kt part orang lain huehue
 
 *******************************************************************************/
 #include <iostream>
