@@ -9,7 +9,7 @@ lg so kalau rajn sesiapa boleh lah add comment kt part orang lain huehue
 #include <string>
 
 using namespace std;
-
+//Question 1
 class Student
 {
     protected: //Protected for using data members between classes
